@@ -1,6 +1,9 @@
-![](https://github.com/Brkwsky/contao-encryption/workflows/PHP%20Unit%20and%20Security%20Check/badge.svg)
+![](https://github.com/christianbarkowsky/contao-encryption/workflows/PHP%20Unit%20and%20Security%20Check/badge.svg)
 
-# Contao Encryption
+# Abandoned
+**This package is abandoned. Please use plenta/contao-encryption.**
+
+## Contao Encryption
 
 A replacement service for the deprecated Contao encryption class (Contao\Encryption).
 

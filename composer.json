@@ -3,6 +3,7 @@
     "description": "A replacement service for the removed Contao encryption class.",
     "type": "contao-bundle",
     "license": "MIT",
+    "abandoned": "plenta/contao-encryption",
     "authors": [
         {
             "name": "Christian Barkowsky",
